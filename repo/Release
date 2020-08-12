@@ -1,0 +1,8 @@
+Origin: dora2ios Basic System Repository
+Label: dora2ios system repo
+Suite: stable
+Version: 1.0
+Codename: nukesuko
+Architectures: iphoneos-arm
+Components: main
+Description: dora2ios Basic System Repository

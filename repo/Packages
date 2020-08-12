@@ -1,0 +1,18 @@
+Package: jp.dora2ios.tetherboot32
+Section: System
+Maintainer: dora2ios
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: bsdiff, coreutils-bin, firmware  (= 10.3.4), cy+cpu.arm, cy+model.iphone
+Conflicts: cy+cpu.arm64
+Filename: ./deb/jp.dora2ios.tetherboot32_1.0_iphoneos-arm.deb
+Size: 148138
+MD5sum: 997a2e6d626f1fd6fb12b125272011fd
+SHA1: 6d996dd4f528621dc65dcd64303c3c1809496d5d
+SHA256: 7759156538236e700e2db83f5b8a06009a95b132e1a1adbc677303f897a314bb
+Description: Additional package for tethered boot. iphone5 - 10.3.4[14G61] only.
+Name: tetherbootX32 10.3.4 semi-tether
+Homepage: https://dora2ios.web.app/tetherbootx32
+Pre−Depends: bsdiff, coreutils-bin
+Author: dora2ios
+
