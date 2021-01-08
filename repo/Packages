@@ -1,18 +1,35 @@
-Package: jp.dora2ios.tetherboot32
-Section: System
-Maintainer: dora2ios
+Package: jp.dora2ios.cpbypass32public
+Version: 1.4.1
 Architecture: iphoneos-arm
-Version: 1.0
+Maintainer: dora2ios
+Installed-Size: 56
+Depends: mobilesubstrate, firmware(>=9.1)
+Filename: ./deb/jp.dora2ios.cpbypass32public_1.4.1_iphoneos-arm.deb
+Size: 3344
+MD5sum: f30bb6ad313070b03c8c0e35e0b70ebe
+SHA1: 9740dabbdc9d074cd19c7b95ea42a8dd1fac1ed4
+SHA256: ce3401c4db204d10cf91658c270aae6bad7e7c2777cc0df340afcc42c2864fb2
+Section: System
+Homepage: https://dora2ios.web.app/tetherbootx32
+Description: JB detection bypass for ちくわぱふぇ(CKP).
+Author: dora2ios
+Name: CP-Bypass32 Public
+
+Package: jp.dora2ios.tetherboot32
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: dora2ios
 Depends: bsdiff, coreutils-bin, firmware  (= 10.3.4), cy+cpu.arm, cy+model.iphone
 Conflicts: cy+cpu.arm64
-Filename: ./deb/jp.dora2ios.tetherboot32_1.0_iphoneos-arm.deb
-Size: 148138
-MD5sum: 997a2e6d626f1fd6fb12b125272011fd
-SHA1: 6d996dd4f528621dc65dcd64303c3c1809496d5d
-SHA256: 7759156538236e700e2db83f5b8a06009a95b132e1a1adbc677303f897a314bb
-Description: Additional package for tethered boot. iphone5 - 10.3.4[14G61] only.
-Name: tetherbootX32 10.3.4 semi-tether
+Filename: ./deb/jp.dora2ios.tetherboot32_1.1_iphoneos-arm.deb
+Size: 146298
+MD5sum: 04ccf5f4e1c85f588f11399abd70b02f
+SHA1: 3cc082e0851587d3b86a173e5c0dc9c234eabd82
+SHA256: 04e14e3d3317ea905100f3773825a773b752fe5f60029dbd07ec2b79f006648d
+Section: System
 Homepage: https://dora2ios.web.app/tetherbootx32
-Pre−Depends: bsdiff, coreutils-bin
+Description: Additional package for tethered boot. iphone5 - 10.3.4[14G61] only.
 Author: dora2ios
+Name: TBX32 Semi-tether
+Pre−depends: bsdiff, coreutils-bin
 
