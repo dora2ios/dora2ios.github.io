@@ -15,6 +15,22 @@ Description: JB detection bypass for ちくわぱふぇ(CKP).
 Author: dora2ios
 Name: CP-Bypass32 Public
 
+Package: jp.dora2ios.ipwnder32
+Version: 3.1.1
+Architecture: iphoneos-arm
+Maintainer: dora2ios
+Depends: curl, firmware (>= 12.0), cy+cpu.arm64
+Filename: ./deb/ipwnder32_3.1.1_iphoneos-arm64.deb
+Size: 52854
+MD5sum: 11fb6f49e6d6b4b878a0a12b05f90517
+SHA1: f7902593b403728a494c1e265b7a5e70ab3331d9
+SHA256: 42ced4c1b2550214484c2270719ebf2e1ee36ec6e86e01d1b5b4e975855ff495
+Section: System
+Homepage: https://dora2ios.web.app/ipwnder32.html
+Description: iPwnder32 for arm64
+Author: dora2ios
+Name: iPwnder32 (arm64)
+
 Package: jp.dora2ios.tetherboot32
 Version: 1.1
 Architecture: iphoneos-arm
