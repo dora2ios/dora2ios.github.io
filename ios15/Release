@@ -1,0 +1,17 @@
+Origin: bakera1n
+Label: bakera1n (old)
+Suite: stable
+Version: 1.0
+Codename: iphoneos-arm64
+Architectures: iphoneos-arm
+Components: main
+Description: bakera1n repository (old)
+Date: Sun, 05 Mar 2023 23:18:52 +0900
+SHA1:
+ 84b7b592af8abebb111a31456b1910d0d355d821 460 Packages
+ f9253d63edc27beb44579cfa161a172fe62c773b 345 Packages.bz2
+ 30aa9524e963579d82c08df057c4da4f99075fc1 326 Packages.gz
+SHA256:
+ 0fa6db68e689e7a2325c554dda25c0bbe630c4a25cd3472f52b065fcc6b4ac3d 460 Packages
+ d6885aa97aa96cd5961f9792a62f6c97d775e85ba85e508611f3af24e897e990 345 Packages.bz2
+ 3148c8268a6921df9d895570f5fd340d45561fefba0c7f5c2bff9dd27854a6ec 326 Packages.gz

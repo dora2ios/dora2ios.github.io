@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: bakera1n
+Label: bakera1n (old)
+Suite: stable
+Version: 1.0
+Codename: iphoneos-arm64
+Architectures: iphoneos-arm
+Components: main
+Description: bakera1n repository (old)
+Date: Sun, 05 Mar 2023 23:18:52 +0900
+SHA1:
+ 84b7b592af8abebb111a31456b1910d0d355d821 460 Packages
+ f9253d63edc27beb44579cfa161a172fe62c773b 345 Packages.bz2
+ 30aa9524e963579d82c08df057c4da4f99075fc1 326 Packages.gz
+SHA256:
+ 0fa6db68e689e7a2325c554dda25c0bbe630c4a25cd3472f52b065fcc6b4ac3d 460 Packages
+ d6885aa97aa96cd5961f9792a62f6c97d775e85ba85e508611f3af24e897e990 345 Packages.bz2
+ 3148c8268a6921df9d895570f5fd340d45561fefba0c7f5c2bff9dd27854a6ec 326 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEKl2/KnplwJ905daY48ip00nlVjoFAmQEpMwACgkQ48ip00nl
+VjpPBxAAtDige+PWZH9REisxPLn4OKCemBsJNZkxqZqVnuugjiuKlDLmG8GquLED
+PGZJqmEm+WFg3i0o+64ShAqijlW1OaglT+UDZZKmo93BBQsfdnOU4tzQUXo0RVQS
+SY22Io7/sZsfIVjPACWvVK7qnr10KQm/XAR1189reVueb1lF5YYHKQRkTr16qP13
+m/5+LK1jr8ywYO5IhZneutoOoHub24U4qY6P1kgQONR6rH1aj61/T7QomyfpZ8LI
+pFHuZGDmK/b4mQVR9aN/ZjHnIOGjW5feG0O2VMjGQWi1WsUf2dGP8IvZzY7bNHjq
+/gXpcl3gqu/FUtwsFATpZS5S/ueYwFfqGggzfDRkfhdMtI7gpcloNWVQhJ/OftFr
+AMCyY9cgC8+9qOLVQgaiJcUWzVJv2/kFxC2vBhcPOAF25C6xJiNlHy3m0c+B9Y/B
+kwZy2SOy/sVSI8c1neGqBqPmLM/Hbo0Z0rjMs27sMas2XOI2HLvws41S9aD+ygZX
+eLTMb5j7jFs/jessT1CeH1lqYIbN09dpfLRd8wzDKLCudOffjbJOhaxZ42d6Cdqm
+5XP7iQ4vkrQLKP8VMX48nZazFgQy/DA3vxn4EKFQITNYgWr3WhQNIB3bdDQxkQfO
+XkdkxqeiHiaSQH5GLRRsFlaKNk2E4o6JxEBHb0eYLnVehJvjT50=
+=l/if
+-----END PGP SIGNATURE-----

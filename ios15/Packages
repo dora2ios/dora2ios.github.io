@@ -1,0 +1,14 @@
+Package: bakera1n-repository
+Version: 2023.03.05-1
+Architecture: iphoneos-arm
+Maintainer: bakera1n <baker@in>
+Filename: ./deb/bakera1n/bakera1n-repository_2023.03.05-1_iphoneos-arm.deb
+Size: 3208
+MD5sum: 249d49f33de99a62398827cfdb7aadd0
+SHA1: ca62d61a582c238ff7fe8c8bbe7eefce9e7acf7e
+SHA256: 4f4a538623b85295f2e752bc781974481e7549bd122ebf1afb9b62e66dd1eb96
+Section: Keyrings
+Priority: optional
+Description: bakera1n repository
+Name: bakera1n's APT Repository
+
